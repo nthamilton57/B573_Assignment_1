@@ -1,2 +1,8 @@
-# B573_Assigment_1
-This is the repository for Assignment 1: Introduction to Unix in the course B573: Computing for Science Informatics.
+# B573 Assignment 1: Introduction to Unix
+
+## Programming Language: Unix
+
+## Date: September 7, 2023
+
+## Description:
+
