@@ -2,7 +2,7 @@
 
 ## Programming Language: Unix
 
-## Date: September 7, 2023
+## Date: September 6, 2023
 
 ## Description:
 
@@ -18,7 +18,19 @@ There are no specific packages required for this repository.
 
 ### Execution
 
-a list of instructions detailing how to use run your script on any machine (not just yours)
+<ins>Steps to Run the Script</ins>
+
+1. Clone repository
+
+2. Change working directory to location of files
+
+    <code>cd path/to/files</code>
+
+3. Run the script using the following command: 
+
+    <code> bash assignment1.sh </code>
+
+4. Once execution is complete check output in home directory in a file named "Informatics_573"
 
 ### Output Files
 
