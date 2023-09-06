@@ -24,7 +24,7 @@ a list of instructions detailing how to use run your script on any machine (not 
 
 data_summary.txt Text File with Information about the downloaded FASTA files
 
-Fasta Files:
+FASTA Files:
 
 chr1_GL383518v1_alt.fa <br>
 chr1_GL383519v1_alt.fa <br>
