@@ -10,7 +10,7 @@ This repository is designed to perform a download of the secondary assemblies of
 
 ### Required Files
 
-a list of any other files needed to run your script, as well as short description for each file
+assignment1.sh Script that will download FASTA files and create summary text document.
 
 ### Required Packages
 
@@ -22,4 +22,27 @@ a list of instructions detailing how to use run your script on any machine (not 
 
 ### Output Files
 
-a list of any files that should be made during the process of running your script
+data_summary.txt Text File with Information about the downloaded FASTA files
+
+Fasta Files:
+chr1_GL383518v1_alt.fa
+chr1_GL383519v1_alt.fa
+chr1_GL383520v2_alt.fa
+chr1_KI270706v1_random.fa
+chr1_KI270707v1_random.fa
+chr1_KI270708v1_random.fa
+chr1_KI270709v1_random.fa
+chr1_KI270710v1_random.fa
+chr1_KI270711v1_random.fa
+chr1_KI270712v1_random.fa
+chr1_KI270713v1_random.fa
+chr1_KI270714v1_random.fa
+chr1_KI270759v1_alt.fa
+chr1_KI270760v1_alt.fa
+chr1_KI270761v1_alt.fa
+chr1_KI270762v1_alt.fa
+chr1_KI270763v1_alt.fa
+chr1_KI270764v1_alt.fa
+chr1_KI270765v1_alt.fa
+chr1_KI270766v1_alt.fa
+chr1_KI270892v1_alt.fa
