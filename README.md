@@ -25,24 +25,25 @@ a list of instructions detailing how to use run your script on any machine (not 
 data_summary.txt Text File with Information about the downloaded FASTA files
 
 Fasta Files:
-chr1_GL383518v1_alt.fa
-chr1_GL383519v1_alt.fa
-chr1_GL383520v2_alt.fa
-chr1_KI270706v1_random.fa
-chr1_KI270707v1_random.fa
-chr1_KI270708v1_random.fa
-chr1_KI270709v1_random.fa
-chr1_KI270710v1_random.fa
-chr1_KI270711v1_random.fa
-chr1_KI270712v1_random.fa
-chr1_KI270713v1_random.fa
-chr1_KI270714v1_random.fa
-chr1_KI270759v1_alt.fa
-chr1_KI270760v1_alt.fa
-chr1_KI270761v1_alt.fa
-chr1_KI270762v1_alt.fa
-chr1_KI270763v1_alt.fa
-chr1_KI270764v1_alt.fa
-chr1_KI270765v1_alt.fa
-chr1_KI270766v1_alt.fa
+
+chr1_GL383518v1_alt.fa <br>
+chr1_GL383519v1_alt.fa <br>
+chr1_GL383520v2_alt.fa <br>
+chr1_KI270706v1_random.fa <br>
+chr1_KI270707v1_random.fa <br>
+chr1_KI270708v1_random.fa <br>
+chr1_KI270709v1_random.fa <br>
+chr1_KI270710v1_random.fa <br>
+chr1_KI270711v1_random.fa <br>
+chr1_KI270712v1_random.fa <br>
+chr1_KI270713v1_random.fa <br>
+chr1_KI270714v1_random.fa <br>
+chr1_KI270759v1_alt.fa <br>
+chr1_KI270760v1_alt.fa <br>
+chr1_KI270761v1_alt.fa <br>
+chr1_KI270762v1_alt.fa <br>
+chr1_KI270763v1_alt.fa <br>
+chr1_KI270764v1_alt.fa <br>
+chr1_KI270765v1_alt.fa <br>
+chr1_KI270766v1_alt.fa <br>
 chr1_KI270892v1_alt.fa
