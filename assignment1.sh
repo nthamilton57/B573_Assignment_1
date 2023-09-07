@@ -24,7 +24,7 @@ touch data_summary.txt
 #Label the following section to increase readability
 echo -e "File Information\n\n" >> data_summary.txt
 
-# Appends a list of the file name and the detailed information for each FASTA file
+# Appends a list of the file name and the file permissions, size, and owner.
 for file in chr1_*.fa; do
    echo "File Name: $file" >> data_summary.txt
    echo "File Permissions: $(ls -l "$file" | awk '{print $1}')" >> data_summary.txt
